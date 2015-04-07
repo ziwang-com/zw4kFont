@@ -3,12 +3,19 @@
 github，全球最大的极客创意平台，欢迎大家参与
 
 ::字王Git项目总览：https://github.com/ziwang-com/,
+
     包括：字王4k云字库，zwPython、zwpy_lst
+    
 ::QQ群：124134140 （字王云字库&zwPython，字王项目，唯一互动平台）
+
 ::技术Blog：http://blog.sina.com.cn/zbrow
+
 ::网盘下载：http://pan.baidu.com/s/1tY7Wq 
+
 ::字王网站:http://www.ziwang.com  
+
     （已缴费十年，目前正在升级，请访问blog和Git网址）
+    
 
 github，全球最大的极客创意平台，欢迎大家参与
 
