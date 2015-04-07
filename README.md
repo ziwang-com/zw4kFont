@@ -1,11 +1,20 @@
-# zw4kFont
-字王4K云字库
 字王4K云字库入驻github
 网址：https://github.com/ziwang-com/zw4kFont
+github，全球最大的极客创意平台，欢迎大家参与
+
+::字王Git项目总览：https://github.com/ziwang-com/,
+    包括：字王4k云字库，zwPython、zwpy_lst
+::QQ群：124134140 （字王云字库&zwPython，字王项目，唯一互动平台）
+::技术Blog：http://blog.sina.com.cn/zbrow
+::网盘下载：http://pan.baidu.com/s/1tY7Wq 
+::字王网站:http://www.ziwang.com  
+    （已缴费十年，目前正在升级，请访问blog和Git网址）
+
+github，全球最大的极客创意平台，欢迎大家参与
 
 2015.3.28，字王4K云字库入驻github，原本或早或晚，不过这几天在github抓字库编程方面的资料，发现github居然是几年间收获最大的一次，仅python的相关源码，洋洋洒洒就上百个项目。
-github是linux作者林纳斯发布的源码托管平台，林纳斯是IT界第一牛人林纳斯，前几年直接拒绝乔布斯的加盟邀请，而这个github平台，今年把谷歌的code平台彻底击垮。
-目前github的影响已经超越IT界，设计师也可以进驻，目前很多国外设计师的字体作品在此发布，还有些做资料翻译项目的也在此。
+github是linux作者林纳斯发布的源码托管平台，林纳斯是IT界第一牛人，前几年直接拒绝乔布斯的加盟邀请，而这个github平台，今年把谷歌的code平台彻底击垮。
+目前github的影响已经超越IT界，成为全球最大的极客创意平台，设计师也可以进驻，目前很多国外设计师的字体作品在此发布，还有些做资料翻译项目的也在此。
 
 github上面的字王4K云字库项目，目前还是空的，只是一个题目，有兴趣欢迎大家私信、加盟。
 字王4K云字库，使用的“字王SDK2015”开发平台，采用python2.7版，用的是WinPython包，是pythonxy作者的新作，关键是绿色的可放到U盘自由携带，而且支持扩展库绿色安装。
