@@ -1,11 +1,16 @@
 
 字王《中华大字库》CBF2018版·发布说明
  2018年10月9日  zw
-2018版《中华大字库》发布说明：
+
+
 字王4K云字库github 网址：https://github.com/ziwang-com/zw4kFont
+
 ziwang.com Lab 字王工作室网站：http://www.ziwang.com
+
 《中华大字库》CBF2018版·字体样张 http://ziwang.com/?p=346
+
 网盘地址：https://pan.baidu.com/s/1G_lhUIc9_pw0SDR-_yYhDw
+
 《中华大字库》CBF2018版和字王大藏经体资源包，均在百度网盘提供免费下载，参见网站下载中心,用户使用时，请注意版权说明。
 ------------------------------------------------------
 
